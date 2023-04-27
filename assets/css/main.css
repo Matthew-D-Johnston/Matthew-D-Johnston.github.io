@@ -35,8 +35,6 @@ body {
 
 ol, ul {
 	list-style: none;
-	display: flex;
-	justify-content: center;
 }
 
 blockquote, q {
@@ -2260,6 +2258,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		justify-content: center;
 	}
 
 		ul.actions li {
